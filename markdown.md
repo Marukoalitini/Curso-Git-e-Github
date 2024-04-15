@@ -27,5 +27,5 @@ lista Demarcada:
 
 Lista de Tarefas:
 
--[] Lista1
--[] Lista2
+-[ ] Lista1
+-[ ] Lista2
