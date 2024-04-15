@@ -10,4 +10,4 @@
 
 ~~Riscado~~ 
 
-__*Dá pra misturar configurações*__ 
+~~__*Dá pra misturar configurações*__~~
