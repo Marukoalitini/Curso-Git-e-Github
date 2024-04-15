@@ -1,1 +1,4 @@
-# Teste de Markdown 
+#Teste de Markdown
+#Título
+*Itálico*
+**Negrito**
