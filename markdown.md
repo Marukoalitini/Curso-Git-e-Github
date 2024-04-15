@@ -20,8 +20,7 @@
 
 lista Demarcada:
 
-*Lista
-*Lista
-*Lista
-   *Lista
-*Lista
+* Lista
+* Lista
+* Lista
+   * Lista
